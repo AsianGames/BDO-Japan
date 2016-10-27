@@ -1,4 +1,4 @@
-#BDO-Japan [Update 10-19-2016]
+#BDO-Japan [Update 10-25-2016]
 
 * That is BDO-Japan?
 
@@ -21,8 +21,8 @@ Our goal is to keep constantly updated the patch as soon as possible after an cl
 
 # VALIDITY
 
-* Valid from: 10/19/2016
-* Expires on: 10/25/2016
+* Valid from: 10/25/2016
+* Expires on: 11/01/2016
 
 
 # TIPS
